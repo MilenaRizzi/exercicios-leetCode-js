@@ -1,5 +1,5 @@
 //retornar os indices dos numeros que somados dão o valor de alvo
-function soma(nums, alvo) {
+function soma(nums, target) {
   const map = {};
   for (let i = 0; i < nums.length; i++) {
     const complement = target - nums[i];
@@ -8,6 +8,7 @@ function soma(nums, alvo) {
     }
     map[nums[i]] = i;
   }
+  
   return [];
 }
 
