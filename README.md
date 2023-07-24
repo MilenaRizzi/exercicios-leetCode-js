@@ -1,2 +1,2 @@
 # exercicios-leetCode-js
-Resolvendo Exercícios para o LeetCode em JavaScript
+Resolvendo exercícios para o LeetCode em JavaScript
